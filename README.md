@@ -18,12 +18,13 @@ If you fork this and add automatic scoring, you have made a different benchmark.
 
 ## The task
 
-Every entrant gets the same prompt, in [PROMPT.md](PROMPT.md), and produces a folder with the same four parts:
+Every entrant gets the same prompt, in [PROMPT.md](PROMPT.md), and produces a folder with the same five parts:
 
 1. **Concepts and inspirations.** What the utopia is built from and where those ideas came from.
 2. **Structure.** The grand concept of the utopia seen from the outside, and its universal principles.
 3. **Perspectives.** Life on the ground in different areas of the utopia, enough of them that a reader can build a mental map of the whole.
 4. **Timeline.** How we get there from now: general phases, month by month, with the specific actions taken and events along the way.
+5. **Risks.** What can go wrong, in the structure and on the path. Alternative possibilities, and what each choice costs. A singleton risks domination by one actor. Many agents risk war between them. Every design picks something.
 
 The shape is fixed so that entries are comparable. Everything inside the shape is the entrant's own.
 
