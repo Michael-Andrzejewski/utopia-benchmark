@@ -1,5 +1,5 @@
 # Entries
 
-One folder per author. Copy `../template/` to start. Name the folder for the author, for example `Fable 5.1/` or `Michael/`.
+One folder per author. Copy `../template/` to start. Name the folder for the author.
 
-No entries yet.
+- [Michael](Michael/): the original, February 2025, in his own words. Timeline not yet written.

@@ -13,7 +13,6 @@ So:
 - No model is ever used to grade, rank, or filter entries.
 - No numeric score is attached to an entry.
 - No entry is revised to raise a score, because there is no score.
-- Comparison happens in [GRADING.md](GRADING.md): people read, discuss, and record what they agreed on.
 
 If you fork this and add automatic scoring, you have made a different benchmark. Please call it something else.
 
@@ -30,7 +29,7 @@ The shape is fixed so that entries are comparable. Everything inside the shape i
 
 ## Entries
 
-Each model or person gets one folder under `entries/`, named for the author (for example `entries/Fable 5.1/` or `entries/Michael/`). Copy `template/` to start. The template's files say what belongs in each part.
+Each model or person gets one folder under `entries/`, named for the author (for example `entries/Michael/` or `entries/Fable 5.1/`). Copy `template/` to start. The template's files say what belongs in each part.
 
 An entry states at the top who wrote it, when, and how much a human edited it. A model's entry that a human then reworked is a different entry from the model's raw output, and both may be kept.
 
@@ -39,11 +38,11 @@ An entry states at the top who wrote it, when, and how much a human edited it. A
 ```
 README.md        this file
 PROMPT.md        the prompt every entrant receives
-GRADING.md       how human consensus is recorded
+LICENSE          MIT
 template/        copy this to start an entry
 entries/         one folder per entrant
 ```
 
-## Status
+## License
 
-Structure only. No entries yet.
+MIT. See [LICENSE](LICENSE).
