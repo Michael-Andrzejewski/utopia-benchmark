@@ -16,4 +16,4 @@ Design a utopia. Your own, not a summary of anyone else's. Work in five stages a
 
 **5. Risks.** What can go wrong, in the structure and on the path. Who gets hurt and how badly. The alternative possibilities you did not take and why. Which failures the utopia can recover from and which are permanent. Take seriously the risks that come with your own design choices: a singleton risks domination by one actor, a system of many agents risks war between them, and every design has chosen something like this whether or not it says so.
 
-Write plainly. Use real numbers where you make quantitative claims and say where they come from. Name your own uncertainties. The result will be read by people and compared with other utopias written to the same four stages.
+Write plainly. Use real numbers where you make quantitative claims and say where they come from. Name your own uncertainties. The result will be read by people and compared with other utopias written to the same five stages.
